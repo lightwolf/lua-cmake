@@ -1,3 +1,4 @@
 [submodule "upstream"]
 	path = upstream
 	url = https://github.com/lua/lua.git
+        branch = 5.4
